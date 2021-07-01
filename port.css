@@ -1,0 +1,109 @@
+
+h1{
+    color: blue;
+    }
+    p{
+    color: black;
+    }
+    body {
+      background-color: rgb(255, 232, 155);
+      text-align: center;
+      margin-top: 6%;
+    }
+    p {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 20px;
+    }
+    body {
+    /*   background-color: rgb(255, 232, 155); */
+      text-align: center;
+      margin-top: 6%;
+    }
+    p {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 20px;
+    }
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+    
+    ul {
+      list-style-type: none;
+    }
+    
+    table,
+    th,
+    td {
+      background-color: #fff;
+      margin-left: 28%;
+      border: 1px solid black;
+      padding: 10px;
+      align-items: center;
+    }
+    
+    button {
+      padding: 10px;
+    }
+    
+    #code {
+     background-image: linear-gradient(to left, red , black);
+       border-radius:15px;
+    }
+    
+    .link {
+      background-color: #0077b5;
+       border-radius:15px;
+    }
+    .project{
+      background-color:black;
+      color:white;
+       border-radius:15px;
+    }
+    .project:hover{
+      background-color:#003334;
+    
+    }
+    
+    #git {
+      background-color: #333;
+      border-radius:15px;
+    }
+    
+     .ed{
+    
+      /* margin-right: 50px; */
+      margin-left:  350px;
+     
+    } 
+    .hobby{
+      font-size:20px;
+      padding-right:50px;
+    }
+    .skill{
+      font-weight:bold;
+      color:blue;
+    }
+    body{
+      background-color:white;
+      background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+      background-size: 100%;
+    }
+    .phone{
+    
+      padding:10px;
+      background-color:black;
+      border-radius:15px;
+      margin-left:4px;
+    }
+    .hack{
+      background-image: linear-gradient(to right , black,green);
+      border-radius:15px;
+      padding:10px;
+      margin-right:5px;
+    }
+    .mail{
+      background-image: linear-gradient(to left , blue,red);
+      border-radius:15px
+    }
+    
